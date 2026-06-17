@@ -1,4 +1,4 @@
-# IRISCLASSIFIER - PROJECT 2: DATA CLASSIFICATION USING AI
+# PROJECT 2: DATA CLASSIFICATION USING AI
 
 ## 1. PROJECT OVERVIEW
 
@@ -256,5 +256,3 @@ This project demonstrates:
 * GridSearchCV
 
 ---
-
-**Powered By:** DecodeLabs
